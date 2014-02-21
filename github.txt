@@ -1,3 +1,6 @@
 Clase 1 - Diseño web Online - 2014
    Esta es una prueba del primer ejercicio
      - Usando el repositorio github.com y su apicación.
+
+PRUEBA DE GUARDADO DE CAMBIO
+    para ver como se muestran los ambios en las versiones.
